@@ -1,0 +1,14 @@
+{
+  "name": "itcs333-a1-tests",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Autograder for ITCS333 A1 (HTML + GitHub). Do not modify.",
+  "type": "module",
+  "scripts": {
+    "test": "node checks/run.mjs"
+  },
+  "dependencies": {
+    "html-validate": "^9.5.3",
+    "linkedom": "^0.18.12"
+  }
+}
