@@ -18,7 +18,6 @@ CILO 1, 2 — semantic HTML5 structure; version control with Git/GitHub.
 - Internal navigation between the two pages + at least one external link.
 - At least one image with a non-empty `alt` attribute (put files in `assets/`).
 - One ordered list **and** one unordered list across the two pages.
-- Git history: ≥3 commits with meaningful messages; ≥1 merged PR from a feature branch.
 
 ## Rubric (100 points = 2.5% of course grade)
 | # | Check | Points |
@@ -29,10 +28,10 @@ CILO 1, 2 — semantic HTML5 structure; version control with Git/GitHub.
 | 4 | Internal links between pages + ≥1 external link | 10 |
 | 5 | ≥1 image with non-empty `alt` | 10 |
 | 6 | Ordered + unordered lists present | 10 |
-| 7 | ≥3 commits with meaningful messages | 20 |
-| 8 | ≥1 pull request merged from a feature branch | 10 |
+| 7 | Discussion in class | 30 |
 
-Checks 1–6 run automatically on every push (see badge above). Checks 7–8 are verified from your repository history at grading time.
+Note: Last 30% will be awarded for participation in the class discussion of your work.
+
 
 ## How to work on this assignment
 1. **Fork** this repository (top-right button on GitHub).
